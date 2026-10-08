@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "501717798056",
+    "project_id": "teknato-6942a",
+    "storage_bucket": "teknato-6942a.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:501717798056:android:764e74cd194e0d94f8469d",
+        "android_client_info": {
+          "package_name": "com.example.teknato"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDrmSsxkBNzFZEN7g30OcYEUxYcVlXcPIc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

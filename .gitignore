@@ -1,0 +1,26 @@
+# Flutter/Dart/Pub artifacts
+**/bin/
+**/obj/
+.dart_tool/
+.packages
+.flutter-plugins
+.flutter-plugins-dependencies
+.pub-cache/
+.pub/
+/build/
+
+# IDE specific files
+.idea/
+.vscode/
+*.iml
+*.ipr
+*.iws
+.DS_Store
+
+# Environment variables / secrets (if you use them locally)
+.env
+
+# Linux/OS specific build outputs
+/linux/flutter/ephemeral/
+/windows/flutter/ephemeral/
+/macos/Flutter/ephemeral/
